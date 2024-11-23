@@ -13,7 +13,8 @@
     ],
     "count": 0,
     "date": "2024-11-05T12:00:00Z",
-    "isMarked": false
+    "isMarked": false,
+    "numero_serie": "AP000001"
   },
   {
     "item": "1112 (8)",
@@ -27,9 +28,10 @@
       "100015",
       "100016"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000002"
   },
   {
     "item": "1113 (8)",
@@ -43,9 +45,10 @@
       "100023",
       "100024"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000003"
   },
   {
     "item": "1114 (8)",
@@ -59,9 +62,10 @@
       "100031",
       "100032"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000004"
   },
   {
     "item": "1121 (8)",
@@ -75,9 +79,10 @@
       "100039",
       "100040"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000005"
   },
   {
     "item": "1122 (8)",
@@ -91,9 +96,10 @@
       "100047",
       "100048"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000006"
   },
   {
     "item": "1123 (8)",
@@ -107,9 +113,10 @@
       "100055",
       "100056"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000007"
   },
   {
     "item": "1124 (8)",
@@ -123,9 +130,10 @@
       "100063",
       "100064"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000008"
   },
   {
     "item": "1131 (8)",
@@ -139,9 +147,10 @@
       "100071",
       "100072"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000009"
   },
   {
     "item": "1132 (8)",
@@ -155,9 +164,10 @@
       "100079",
       "100080"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000010"
   },
   {
     "item": "1133 (8)",
@@ -171,9 +181,10 @@
       "100087",
       "100088"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000011"
   },
   {
     "item": "1134 (8)",
@@ -187,9 +198,10 @@
       "100095",
       "100096"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000012"
   },
   {
     "item": "1141 (8)",
@@ -203,9 +215,10 @@
       "100103",
       "100104"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000013"
   },
   {
     "item": "1142 (8)",
@@ -219,9 +232,10 @@
       "100111",
       "100112"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000014"
   },
   {
     "item": "1143 (8)",
@@ -235,9 +249,10 @@
       "100119",
       "100120"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000015"
   },
   {
     "item": "1144 (8)",
@@ -251,9 +266,10 @@
       "100127",
       "100128"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000016"
   },
   {
     "item": "1211 (6)",
@@ -265,9 +281,10 @@
       "100133",
       "100134"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000017"
   },
   {
     "item": "1212 (6)",
@@ -279,9 +296,10 @@
       "100139",
       "100140"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000018"
   },
   {
     "item": "1213 (6)",
@@ -293,9 +311,10 @@
       "100145",
       "100146"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000019"
   },
   {
     "item": "1214 (6)",
@@ -307,9 +326,10 @@
       "100151",
       "100152"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000020"
   },
   {
     "item": "1221 (6)",
@@ -321,9 +341,10 @@
       "100157",
       "100158"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000021"
   },
   {
     "item": "1222 (6)",
@@ -335,9 +356,10 @@
       "100163",
       "100164"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000022"
   },
   {
     "item": "1223 (6)",
@@ -349,9 +371,10 @@
       "100169",
       "100170"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000023"
   },
   {
     "item": "1224 (6)",
@@ -363,9 +386,10 @@
       "100175",
       "100176"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000024"
   },
   {
     "item": "1231 (6)",
@@ -377,9 +401,10 @@
       "100181",
       "100182"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000025"
   },
   {
     "item": "1232 (6)",
@@ -391,9 +416,10 @@
       "100187",
       "100188"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000026"
   },
   {
     "item": "1233 (6)",
@@ -405,9 +431,10 @@
       "100193",
       "100194"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000027"
   },
   {
     "item": "1234 (6)",
@@ -419,9 +446,10 @@
       "100199",
       "100200"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000028"
   },
   {
     "item": "1241 (8)",
@@ -435,9 +463,10 @@
       "100207",
       "100208"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000029"
   },
   {
     "item": "1242 (8)",
@@ -451,9 +480,10 @@
       "100215",
       "100216"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000030"
   },
   {
     "item": "1243 (8)",
@@ -467,9 +497,10 @@
       "100223",
       "100224"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000031"
   },
   {
     "item": "1244 (8)",
@@ -483,9 +514,10 @@
       "100231",
       "100232"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000032"
   },
   {
     "item": "1311 (6)",
@@ -497,9 +529,10 @@
       "100237",
       "100238"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000033"
   },
   {
     "item": "1312 (6)",
@@ -511,9 +544,10 @@
       "100243",
       "100244"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000034"
   },
   {
     "item": "1313 (6)",
@@ -525,9 +559,10 @@
       "100249",
       "100250"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000035"
   },
   {
     "item": "1314 (6)",
@@ -539,9 +574,10 @@
       "100255",
       "100256"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000036"
   },
   {
     "item": "1321 (6)",
@@ -553,9 +589,10 @@
       "100261",
       "100262"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000037"
   },
   {
     "item": "1322 (6)",
@@ -567,9 +604,10 @@
       "100267",
       "100268"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000038"
   },
   {
     "item": "1323 (6)",
@@ -581,9 +619,10 @@
       "100273",
       "100274"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000039"
   },
   {
     "item": "1324 (6)",
@@ -595,9 +634,10 @@
       "100279",
       "100280"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000040"
   },
   {
     "item": "1331 (6)",
@@ -609,9 +649,10 @@
       "100285",
       "100286"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000041"
   },
   {
     "item": "1332 (6)",
@@ -623,9 +664,10 @@
       "100291",
       "100292"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000042"
   },
   {
     "item": "1333 (6)",
@@ -637,9 +679,10 @@
       "100297",
       "100298"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000043"
   },
   {
     "item": "1334 (6)",
@@ -651,9 +694,10 @@
       "100303",
       "100304"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000044"
   },
   {
     "item": "1341 (8)",
@@ -667,9 +711,10 @@
       "100311",
       "100312"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000045"
   },
   {
     "item": "1342 (8)",
@@ -683,9 +728,10 @@
       "100319",
       "100320"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000046"
   },
   {
     "item": "1343 (8)",
@@ -699,9 +745,10 @@
       "100327",
       "100328"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000047"
   },
   {
     "item": "1344 (8)",
@@ -715,9 +762,10 @@
       "100335",
       "100336"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000048"
   },
   {
     "item": "1411 (6)",
@@ -729,9 +777,10 @@
       "100341",
       "100342"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000049"
   },
   {
     "item": "1412 (6)",
@@ -743,9 +792,10 @@
       "100347",
       "100348"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000050"
   },
   {
     "item": "1413 (6)",
@@ -757,9 +807,10 @@
       "100353",
       "100354"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000051"
   },
   {
     "item": "1414 (6)",
@@ -771,9 +822,10 @@
       "100359",
       "100360"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000052"
   },
   {
     "item": "1421 (6)",
@@ -785,9 +837,10 @@
       "100365",
       "100366"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000053"
   },
   {
     "item": "1422 (6)",
@@ -799,9 +852,10 @@
       "100371",
       "100372"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000054"
   },
   {
     "item": "1423 (6)",
@@ -813,9 +867,10 @@
       "100377",
       "100378"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000055"
   },
   {
     "item": "1424 (6)",
@@ -827,9 +882,10 @@
       "100383",
       "100384"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000056"
   },
   {
     "item": "1431 (6)",
@@ -841,9 +897,10 @@
       "100389",
       "100390"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000057"
   },
   {
     "item": "1432 (6)",
@@ -855,9 +912,10 @@
       "100395",
       "100396"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000058"
   },
   {
     "item": "1433 (6)",
@@ -869,9 +927,10 @@
       "100401",
       "100402"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000059"
   },
   {
     "item": "1434 (6)",
@@ -883,9 +942,10 @@
       "100407",
       "100408"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000060"
   },
   {
     "item": "1441 (8)",
@@ -899,9 +959,10 @@
       "100415",
       "100416"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000061"
   },
   {
     "item": "1442 (8)",
@@ -915,9 +976,10 @@
       "100423",
       "100424"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000062"
   },
   {
     "item": "1443 (8)",
@@ -931,9 +993,10 @@
       "100431",
       "100432"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000063"
   },
   {
     "item": "1444 (8)",
@@ -947,9 +1010,10 @@
       "100439",
       "100440"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000064"
   },
   {
     "item": "1511 (6)",
@@ -961,9 +1025,10 @@
       "100445",
       "100446"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000065"
   },
   {
     "item": "1512 (6)",
@@ -975,9 +1040,10 @@
       "100451",
       "100452"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000066"
   },
   {
     "item": "1513 (6)",
@@ -989,9 +1055,10 @@
       "100457",
       "100458"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000067"
   },
   {
     "item": "1514 (6)",
@@ -1003,9 +1070,10 @@
       "100463",
       "100464"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000068"
   },
   {
     "item": "1521 (6)",
@@ -1017,9 +1085,10 @@
       "100469",
       "100470"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000069"
   },
   {
     "item": "1522 (6)",
@@ -1031,9 +1100,10 @@
       "100475",
       "100476"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000070"
   },
   {
     "item": "1523 (6)",
@@ -1045,9 +1115,10 @@
       "100481",
       "100482"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000071"
   },
   {
     "item": "1524 (6)",
@@ -1059,9 +1130,10 @@
       "100487",
       "100488"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000072"
   },
   {
     "item": "1531 (6)",
@@ -1073,9 +1145,10 @@
       "100493",
       "100494"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000073"
   },
   {
     "item": "1532 (6)",
@@ -1087,9 +1160,10 @@
       "100499",
       "100500"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000074"
   },
   {
     "item": "1533 (6)",
@@ -1101,9 +1175,10 @@
       "100505",
       "100506"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000075"
   },
   {
     "item": "1534 (6)",
@@ -1115,9 +1190,10 @@
       "100511",
       "100512"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000076"
   },
   {
     "item": "1541 (8)",
@@ -1131,9 +1207,10 @@
       "100519",
       "100520"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000077"
   },
   {
     "item": "1542 (8)",
@@ -1147,9 +1224,10 @@
       "100527",
       "100528"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000078"
   },
   {
     "item": "2111 (8)",
@@ -1163,9 +1241,10 @@
       "100535",
       "100536"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000079"
   },
   {
     "item": "2112 (8)",
@@ -1179,9 +1258,10 @@
       "100543",
       "100544"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000080"
   },
   {
     "item": "2113 (8)",
@@ -1195,9 +1275,10 @@
       "100551",
       "100552"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000081"
   },
   {
     "item": "2114 (8)",
@@ -1211,9 +1292,10 @@
       "100559",
       "100560"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000082"
   },
   {
     "item": "2121 (8)",
@@ -1227,9 +1309,10 @@
       "100567",
       "100568"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000083"
   },
   {
     "item": "2122 (8)",
@@ -1243,9 +1326,10 @@
       "100575",
       "100576"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000084"
   },
   {
     "item": "2123 (8)",
@@ -1259,9 +1343,10 @@
       "100583",
       "100584"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000085"
   },
   {
     "item": "2124 (8)",
@@ -1275,9 +1360,10 @@
       "100591",
       "100592"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000086"
   },
   {
     "item": "2131 (8)",
@@ -1291,9 +1377,10 @@
       "100599",
       "100600"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000087"
   },
   {
     "item": "2132 (8)",
@@ -1307,9 +1394,10 @@
       "100607",
       "100608"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000088"
   },
   {
     "item": "2133 (8)",
@@ -1323,9 +1411,10 @@
       "100615",
       "100616"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000089"
   },
   {
     "item": "2134 (8)",
@@ -1339,9 +1428,10 @@
       "100623",
       "100624"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000090"
   },
   {
     "item": "2141 (8)",
@@ -1355,9 +1445,10 @@
       "100631",
       "100632"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000091"
   },
   {
     "item": "2142 (8)",
@@ -1371,9 +1462,10 @@
       "100639",
       "100640"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000092"
   },
   {
     "item": "2211 (6)",
@@ -1385,9 +1477,10 @@
       "100645",
       "100646"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000093"
   },
   {
     "item": "2212 (6)",
@@ -1399,9 +1492,10 @@
       "100651",
       "100652"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000094"
   },
   {
     "item": "2213 (6)",
@@ -1413,9 +1507,10 @@
       "100657",
       "100658"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000095"
   },
   {
     "item": "2214 (6)",
@@ -1427,9 +1522,10 @@
       "100663",
       "100664"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000096"
   },
   {
     "item": "2221 (6)",
@@ -1441,9 +1537,10 @@
       "100669",
       "100670"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000097"
   },
   {
     "item": "2222 (6)",
@@ -1455,9 +1552,10 @@
       "100675",
       "100676"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000098"
   },
   {
     "item": "2223 (6)",
@@ -1469,9 +1567,10 @@
       "100681",
       "100682"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000099"
   },
   {
     "item": "2224 (6)",
@@ -1483,9 +1582,10 @@
       "100687",
       "100688"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000100"
   },
   {
     "item": "2231 (6)",
@@ -1497,9 +1597,10 @@
       "100693",
       "100694"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000101"
   },
   {
     "item": "2232 (6)",
@@ -1511,9 +1612,10 @@
       "100699",
       "100700"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000102"
   },
   {
     "item": "2233 (6)",
@@ -1525,9 +1627,10 @@
       "100705",
       "100706"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000103"
   },
   {
     "item": "2234 (6)",
@@ -1539,9 +1642,10 @@
       "100711",
       "100712"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000104"
   },
   {
     "item": "2241 (8)",
@@ -1555,9 +1659,10 @@
       "100719",
       "100720"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000105"
   },
   {
     "item": "2242 (8)",
@@ -1571,9 +1676,10 @@
       "100727",
       "100728"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000106"
   },
   {
     "item": "2243 (8)",
@@ -1587,9 +1693,10 @@
       "100735",
       "100736"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000107"
   },
   {
     "item": "2244 (8)",
@@ -1603,9 +1710,10 @@
       "100743",
       "100744"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000108"
   },
   {
     "item": "2311 (6)",
@@ -1617,9 +1725,10 @@
       "100749",
       "100750"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000109"
   },
   {
     "item": "2312 (6)",
@@ -1631,9 +1740,10 @@
       "100755",
       "100756"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000110"
   },
   {
     "item": "2313 (6)",
@@ -1645,9 +1755,10 @@
       "100761",
       "100762"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000111"
   },
   {
     "item": "2314 (6)",
@@ -1659,9 +1770,10 @@
       "100767",
       "100768"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000112"
   },
   {
     "item": "2321 (6)",
@@ -1673,9 +1785,10 @@
       "100773",
       "100774"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000113"
   },
   {
     "item": "2322 (8)",
@@ -1689,9 +1802,10 @@
       "100781",
       "100782"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000114"
   },
   {
     "item": "2323 (6)",
@@ -1703,9 +1817,10 @@
       "100787",
       "100788"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000115"
   },
   {
     "item": "2324 (6)",
@@ -1717,9 +1832,10 @@
       "100793",
       "100794"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000116"
   },
   {
     "item": "2331 (6)",
@@ -1731,9 +1847,10 @@
       "100799",
       "100800"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000117"
   },
   {
     "item": "2332 (6)",
@@ -1745,9 +1862,10 @@
       "100805",
       "100806"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000118"
   },
   {
     "item": "2341 (8)",
@@ -1761,9 +1879,10 @@
       "100813",
       "100814"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000119"
   },
   {
     "item": "2342 (8)",
@@ -1777,9 +1896,10 @@
       "100821",
       "100822"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000120"
   },
   {
     "item": "3111 (8)",
@@ -1793,9 +1913,10 @@
       "100829",
       "100830"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000121"
   },
   {
     "item": "3112 (8)",
@@ -1809,9 +1930,10 @@
       "100837",
       "100838"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000122"
   },
   {
     "item": "3113 (8)",
@@ -1825,9 +1947,10 @@
       "100845",
       "100846"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000123"
   },
   {
     "item": "3114 (8)",
@@ -1841,9 +1964,10 @@
       "100853",
       "100854"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000124"
   },
   {
     "item": "3121 (8)",
@@ -1857,9 +1981,10 @@
       "100861",
       "100862"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000125"
   },
   {
     "item": "3122 (8)",
@@ -1873,9 +1998,10 @@
       "100869",
       "100870"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000126"
   },
   {
     "item": "3123 (8)",
@@ -1889,9 +2015,10 @@
       "100877",
       "100878"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000127"
   },
   {
     "item": "3124 (8)",
@@ -1905,9 +2032,10 @@
       "100885",
       "100886"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000128"
   },
   {
     "item": "3131 (8)",
@@ -1921,9 +2049,10 @@
       "100893",
       "100894"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000129"
   },
   {
     "item": "3132 (8)",
@@ -1937,9 +2066,10 @@
       "100901",
       "100902"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000130"
   },
   {
     "item": "3133 (8)",
@@ -1953,9 +2083,10 @@
       "100909",
       "100910"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000131"
   },
   {
     "item": "3134 (8)",
@@ -1969,9 +2100,10 @@
       "100917",
       "100918"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000132"
   },
   {
     "item": "3141 (8)",
@@ -1985,9 +2117,10 @@
       "100925",
       "100926"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000133"
   },
   {
     "item": "3142 (8)",
@@ -2001,9 +2134,10 @@
       "100933",
       "100934"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000134"
   },
   {
     "item": "3143 (8)",
@@ -2017,9 +2151,10 @@
       "100941",
       "100942"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000135"
   },
   {
     "item": "3144 (8)",
@@ -2033,9 +2168,10 @@
       "100949",
       "100950"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000136"
   },
   {
     "item": "3211 (6)",
@@ -2047,9 +2183,10 @@
       "100955",
       "100956"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000137"
   },
   {
     "item": "3212 (6)",
@@ -2061,9 +2198,10 @@
       "100961",
       "100962"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000138"
   },
   {
     "item": "3213 (6)",
@@ -2075,9 +2213,10 @@
       "100967",
       "100968"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000139"
   },
   {
     "item": "3214 (6)",
@@ -2089,9 +2228,10 @@
       "100973",
       "100974"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000140"
   },
   {
     "item": "3221 (6)",
@@ -2103,9 +2243,10 @@
       "100979",
       "100980"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000141"
   },
   {
     "item": "3222 (6)",
@@ -2117,9 +2258,10 @@
       "100985",
       "100986"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000142"
   },
   {
     "item": "3223 (6)",
@@ -2131,9 +2273,10 @@
       "100991",
       "100992"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000143"
   },
   {
     "item": "3224 (6)",
@@ -2145,9 +2288,10 @@
       "100997",
       "100998"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000144"
   },
   {
     "item": "3231 (6)",
@@ -2159,9 +2303,10 @@
       "101003",
       "101004"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000145"
   },
   {
     "item": "3232 (6)",
@@ -2173,9 +2318,10 @@
       "101009",
       "101010"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000146"
   },
   {
     "item": "3233 (6)",
@@ -2187,9 +2333,10 @@
       "101015",
       "101016"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000147"
   },
   {
     "item": "3234 (6)",
@@ -2201,9 +2348,10 @@
       "101021",
       "101022"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000148"
   },
   {
     "item": "3241 (8)",
@@ -2217,9 +2365,10 @@
       "101029",
       "101030"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000149"
   },
   {
     "item": "3242 (8)",
@@ -2233,9 +2382,10 @@
       "101037",
       "101038"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000150"
   },
   {
     "item": "3243 (8)",
@@ -2249,9 +2399,10 @@
       "101045",
       "101046"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000151"
   },
   {
     "item": "3244 (8)",
@@ -2265,9 +2416,10 @@
       "101053",
       "101054"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000152"
   },
   {
     "item": "3311 (6)",
@@ -2279,9 +2431,10 @@
       "101059",
       "101060"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000153"
   },
   {
     "item": "3312 (6)",
@@ -2293,9 +2446,10 @@
       "101065",
       "101066"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000154"
   },
   {
     "item": "3313 (6)",
@@ -2307,9 +2461,10 @@
       "101071",
       "101072"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000155"
   },
   {
     "item": "3314 (6)",
@@ -2321,9 +2476,10 @@
       "101077",
       "101078"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000156"
   },
   {
     "item": "3321 (6)",
@@ -2335,9 +2491,10 @@
       "101083",
       "101084"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000157"
   },
   {
     "item": "3322 (6)",
@@ -2349,9 +2506,10 @@
       "101089",
       "101090"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000158"
   },
   {
     "item": "3323 (6)",
@@ -2363,9 +2521,10 @@
       "101095",
       "101096"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000159"
   },
   {
     "item": "3324 (6)",
@@ -2377,9 +2536,10 @@
       "101101",
       "101102"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000160"
   },
   {
     "item": "3331 (6)",
@@ -2391,9 +2551,10 @@
       "101107",
       "101108"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000161"
   },
   {
     "item": "3332 (6)",
@@ -2405,9 +2566,10 @@
       "101113",
       "101114"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000162"
   },
   {
     "item": "3333 (6)",
@@ -2419,9 +2581,10 @@
       "101119",
       "101120"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000163"
   },
   {
     "item": "3334 (6)",
@@ -2433,9 +2596,10 @@
       "101125",
       "101126"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000164"
   },
   {
     "item": "3341 (8)",
@@ -2449,9 +2613,10 @@
       "101133",
       "101134"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000165"
   },
   {
     "item": "3342 (8)",
@@ -2465,9 +2630,10 @@
       "101141",
       "101142"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000166"
   },
   {
     "item": "3343 (8)",
@@ -2481,9 +2647,10 @@
       "101149",
       "101150"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000167"
   },
   {
     "item": "3344 (8)",
@@ -2497,9 +2664,10 @@
       "101157",
       "101158"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000168"
   },
   {
     "item": "3411 (6)",
@@ -2511,9 +2679,10 @@
       "101163",
       "101164"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000169"
   },
   {
     "item": "3412 (6)",
@@ -2525,9 +2694,10 @@
       "101169",
       "101170"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000170"
   },
   {
     "item": "3413 (6)",
@@ -2539,9 +2709,10 @@
       "101175",
       "101176"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000171"
   },
   {
     "item": "3414 (6)",
@@ -2553,9 +2724,10 @@
       "101181",
       "101182"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000172"
   },
   {
     "item": "3421 (6)",
@@ -2567,9 +2739,10 @@
       "101187",
       "101188"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000173"
   },
   {
     "item": "3422 (6)",
@@ -2581,9 +2754,10 @@
       "101193",
       "101194"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000174"
   },
   {
     "item": "3423 (6)",
@@ -2595,9 +2769,10 @@
       "101199",
       "101200"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000175"
   },
   {
     "item": "3424 (6)",
@@ -2609,9 +2784,10 @@
       "101205",
       "101206"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000176"
   },
   {
     "item": "3431 (6)",
@@ -2623,9 +2799,10 @@
       "101211",
       "101212"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000177"
   },
   {
     "item": "3432 (6)",
@@ -2637,9 +2814,10 @@
       "101217",
       "101218"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000178"
   },
   {
     "item": "3433 (6)",
@@ -2651,9 +2829,10 @@
       "101223",
       "101224"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000179"
   },
   {
     "item": "3434 (6)",
@@ -2665,9 +2844,10 @@
       "101229",
       "101230"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000180"
   },
   {
     "item": "3441 (8)",
@@ -2681,9 +2861,10 @@
       "101237",
       "101238"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000181"
   },
   {
     "item": "3442 (8)",
@@ -2697,9 +2878,10 @@
       "101245",
       "101246"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000182"
   },
   {
     "item": "3443 (8)",
@@ -2713,9 +2895,10 @@
       "101253",
       "101254"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000183"
   },
   {
     "item": "3444 (8)",
@@ -2729,9 +2912,10 @@
       "101261",
       "101262"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000184"
   },
   {
     "item": "3511 (6)",
@@ -2743,9 +2927,10 @@
       "101267",
       "101268"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000185"
   },
   {
     "item": "3512 (6)",
@@ -2757,9 +2942,10 @@
       "101273",
       "101274"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000186"
   },
   {
     "item": "3513 (6)",
@@ -2771,9 +2957,10 @@
       "101279",
       "101280"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000187"
   },
   {
     "item": "3514 (6)",
@@ -2785,9 +2972,10 @@
       "101285",
       "101286"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000188"
   },
   {
     "item": "3521 (6)",
@@ -2799,9 +2987,10 @@
       "101291",
       "101292"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000189"
   },
   {
     "item": "3522 (6)",
@@ -2813,9 +3002,10 @@
       "101297",
       "101298"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000190"
   },
   {
     "item": "3523 (6)",
@@ -2827,9 +3017,10 @@
       "101303",
       "101304"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000191"
   },
   {
     "item": "3524 (6)",
@@ -2841,9 +3032,10 @@
       "101309",
       "101310"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000192"
   },
   {
     "item": "3531 (6)",
@@ -2855,9 +3047,10 @@
       "101315",
       "101316"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000193"
   },
   {
     "item": "3532 (6)",
@@ -2869,9 +3062,10 @@
       "101321",
       "101322"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000194"
   },
   {
     "item": "3533 (6)",
@@ -2883,9 +3077,10 @@
       "101327",
       "101328"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000195"
   },
   {
     "item": "3534 (6)",
@@ -2897,9 +3092,10 @@
       "101333",
       "101334"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000196"
   },
   {
     "item": "3541 (8)",
@@ -2913,9 +3109,10 @@
       "101341",
       "101342"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000197"
   },
   {
     "item": "3542 (8)",
@@ -2929,9 +3126,10 @@
       "101349",
       "101350"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000198"
   },
   {
     "item": "3543 (8)",
@@ -2945,9 +3143,10 @@
       "101357",
       "101358"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000199"
   },
   {
     "item": "3544 (8)",
@@ -2961,9 +3160,10 @@
       "101365",
       "101366"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000200"
   },
   {
     "item": "3611 (6)",
@@ -2975,9 +3175,10 @@
       "101371",
       "101372"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000201"
   },
   {
     "item": "3612 (6)",
@@ -2989,9 +3190,10 @@
       "101377",
       "101378"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000202"
   },
   {
     "item": "3613 (6)",
@@ -3003,9 +3205,10 @@
       "101383",
       "101384"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000203"
   },
   {
     "item": "3621 (6)",
@@ -3017,9 +3220,10 @@
       "101389",
       "101390"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000204"
   },
   {
     "item": "3622 (6)",
@@ -3031,9 +3235,10 @@
       "101395",
       "101396"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000205"
   },
   {
     "item": "3623 (6)",
@@ -3045,9 +3250,10 @@
       "101401",
       "101402"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000206"
   },
   {
     "item": "4111 (8)",
@@ -3061,9 +3267,10 @@
       "101409",
       "101410"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000207"
   },
   {
     "item": "4112 (8)",
@@ -3077,9 +3284,10 @@
       "101417",
       "101418"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000208"
   },
   {
     "item": "4113 (8)",
@@ -3093,9 +3301,10 @@
       "101425",
       "101426"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000209"
   },
   {
     "item": "4114 (8)",
@@ -3109,9 +3318,10 @@
       "101433",
       "101434"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000210"
   },
   {
     "item": "4115 (8)",
@@ -3125,9 +3335,10 @@
       "101441",
       "101442"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000211"
   },
   {
     "item": "4116 (8)",
@@ -3141,9 +3352,10 @@
       "101449",
       "101450"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000212"
   },
   {
     "item": "4121 (8)",
@@ -3157,9 +3369,10 @@
       "101457",
       "101458"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000213"
   },
   {
     "item": "4122 (8)",
@@ -3173,9 +3386,10 @@
       "101465",
       "101466"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000214"
   },
   {
     "item": "4123 (8)",
@@ -3189,9 +3403,10 @@
       "101473",
       "101474"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000215"
   },
   {
     "item": "4124 (8)",
@@ -3205,9 +3420,10 @@
       "101481",
       "101482"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000216"
   },
   {
     "item": "4125 (8)",
@@ -3221,9 +3437,10 @@
       "101489",
       "101490"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000217"
   },
   {
     "item": "4126 (8)",
@@ -3237,9 +3454,10 @@
       "101497",
       "101498"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000218"
   },
   {
     "item": "4131 (8)",
@@ -3253,9 +3471,10 @@
       "101505",
       "101506"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000219"
   },
   {
     "item": "4132 (8)",
@@ -3269,9 +3488,10 @@
       "101513",
       "101514"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000220"
   },
   {
     "item": "4133 (8)",
@@ -3285,9 +3505,10 @@
       "101521",
       "101522"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000221"
   },
   {
     "item": "4134 (8)",
@@ -3301,9 +3522,10 @@
       "101529",
       "101530"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000222"
   },
   {
     "item": "4135 (8)",
@@ -3317,9 +3539,10 @@
       "101537",
       "101538"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000223"
   },
   {
     "item": "4136 (8)",
@@ -3333,9 +3556,10 @@
       "101545",
       "101546"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000224"
   },
   {
     "item": "4141 (8)",
@@ -3349,9 +3573,10 @@
       "101553",
       "101554"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000225"
   },
   {
     "item": "4142 (8)",
@@ -3365,9 +3590,10 @@
       "101561",
       "101562"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000226"
   },
   {
     "item": "4143 (8)",
@@ -3381,9 +3607,10 @@
       "101569",
       "101570"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000227"
   },
   {
     "item": "4144 (8)",
@@ -3397,9 +3624,10 @@
       "101577",
       "101578"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000228"
   },
   {
     "item": "4211 (6)",
@@ -3411,9 +3639,10 @@
       "101583",
       "101584"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000229"
   },
   {
     "item": "4212 (6)",
@@ -3425,9 +3654,10 @@
       "101589",
       "101590"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000230"
   },
   {
     "item": "4213 (6)",
@@ -3439,9 +3669,10 @@
       "101595",
       "101596"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000231"
   },
   {
     "item": "4214 (6)",
@@ -3453,9 +3684,10 @@
       "101601",
       "101602"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000232"
   },
   {
     "item": "4221 (6)",
@@ -3467,9 +3699,10 @@
       "101607",
       "101608"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000233"
   },
   {
     "item": "4222 (6)",
@@ -3481,9 +3714,10 @@
       "101613",
       "101614"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000234"
   },
   {
     "item": "4223 (6)",
@@ -3495,9 +3729,10 @@
       "101619",
       "101620"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000235"
   },
   {
     "item": "4224 (6)",
@@ -3509,9 +3744,10 @@
       "101625",
       "101626"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000236"
   },
   {
     "item": "4231 (6)",
@@ -3523,9 +3759,10 @@
       "101631",
       "101632"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000237"
   },
   {
     "item": "4232 (6)",
@@ -3537,9 +3774,10 @@
       "101637",
       "101638"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000238"
   },
   {
     "item": "4233 (6)",
@@ -3551,9 +3789,10 @@
       "101643",
       "101644"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000239"
   },
   {
     "item": "4234 (6)",
@@ -3565,9 +3804,10 @@
       "101649",
       "101650"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000240"
   },
   {
     "item": "4241 (8)",
@@ -3581,9 +3821,10 @@
       "101657",
       "101658"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000241"
   },
   {
     "item": "4242 (8)",
@@ -3597,9 +3838,10 @@
       "101665",
       "101666"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000242"
   },
   {
     "item": "4243 (8)",
@@ -3613,9 +3855,10 @@
       "101673",
       "101674"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000243"
   },
   {
     "item": "4244 (8)",
@@ -3629,9 +3872,10 @@
       "101681",
       "101682"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000244"
   },
   {
     "item": "4311 (6)",
@@ -3643,9 +3887,10 @@
       "101687",
       "101688"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000245"
   },
   {
     "item": "4312 (6)",
@@ -3657,9 +3902,10 @@
       "101693",
       "101694"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000246"
   },
   {
     "item": "4313 (6)",
@@ -3671,9 +3917,10 @@
       "101699",
       "101700"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000247"
   },
   {
     "item": "4314 (6)",
@@ -3685,9 +3932,10 @@
       "101705",
       "101706"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000248"
   },
   {
     "item": "4321 (6)",
@@ -3699,9 +3947,10 @@
       "101711",
       "101712"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000249"
   },
   {
     "item": "4322 (6)",
@@ -3713,9 +3962,10 @@
       "101717",
       "101718"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000250"
   },
   {
     "item": "4323 (6)",
@@ -3727,9 +3977,10 @@
       "101723",
       "101724"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000251"
   },
   {
     "item": "4324 (6)",
@@ -3741,9 +3992,10 @@
       "101729",
       "101730"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000252"
   },
   {
     "item": "4331 (6)",
@@ -3755,9 +4007,10 @@
       "101735",
       "101736"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000253"
   },
   {
     "item": "4332 (6)",
@@ -3769,9 +4022,10 @@
       "101741",
       "101742"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000254"
   },
   {
     "item": "4333 (6)",
@@ -3783,9 +4037,10 @@
       "101747",
       "101748"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000255"
   },
   {
     "item": "4334 (6)",
@@ -3797,9 +4052,10 @@
       "101753",
       "101754"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000256"
   },
   {
     "item": "4341 (8)",
@@ -3813,9 +4069,10 @@
       "101761",
       "101762"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000257"
   },
   {
     "item": "4342 (8)",
@@ -3829,9 +4086,10 @@
       "101769",
       "101770"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000258"
   },
   {
     "item": "4343 (8)",
@@ -3845,9 +4103,10 @@
       "101777",
       "101778"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000259"
   },
   {
     "item": "4344 (8)",
@@ -3861,9 +4120,10 @@
       "101785",
       "101786"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000260"
   },
   {
     "item": "4411 (6)",
@@ -3875,9 +4135,10 @@
       "101791",
       "101792"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000261"
   },
   {
     "item": "4412 (6)",
@@ -3889,9 +4150,10 @@
       "101797",
       "101798"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000262"
   },
   {
     "item": "4413 (6)",
@@ -3903,9 +4165,10 @@
       "101803",
       "101804"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000263"
   },
   {
     "item": "4414 (6)",
@@ -3917,9 +4180,10 @@
       "101809",
       "101810"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000264"
   },
   {
     "item": "4421 (6)",
@@ -3931,9 +4195,10 @@
       "101815",
       "101816"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000265"
   },
   {
     "item": "4422 (6)",
@@ -3945,9 +4210,10 @@
       "101821",
       "101822"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000266"
   },
   {
     "item": "4423 (6)",
@@ -3959,9 +4225,10 @@
       "101827",
       "101828"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000267"
   },
   {
     "item": "4424 (6)",
@@ -3973,9 +4240,10 @@
       "101833",
       "101834"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000268"
   },
   {
     "item": "4431 (6)",
@@ -3987,9 +4255,10 @@
       "101839",
       "101840"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000269"
   },
   {
     "item": "4432 (6)",
@@ -4001,9 +4270,10 @@
       "101845",
       "101846"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000270"
   },
   {
     "item": "4433 (6)",
@@ -4015,9 +4285,10 @@
       "101851",
       "101852"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000271"
   },
   {
     "item": "4434 (6)",
@@ -4029,9 +4300,10 @@
       "101857",
       "101858"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000272"
   },
   {
     "item": "4441 (8)",
@@ -4045,9 +4317,10 @@
       "101865",
       "101866"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000273"
   },
   {
     "item": "4442 (8)",
@@ -4061,9 +4334,10 @@
       "101873",
       "101874"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000274"
   },
   {
     "item": "4443 (8)",
@@ -4077,9 +4351,10 @@
       "101881",
       "101882"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000275"
   },
   {
     "item": "4444 (8)",
@@ -4093,9 +4368,10 @@
       "101889",
       "101890"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000276"
   },
   {
     "item": "4511 (6)",
@@ -4107,9 +4383,10 @@
       "101895",
       "101896"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000277"
   },
   {
     "item": "4512 (6)",
@@ -4121,9 +4398,10 @@
       "101901",
       "101902"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000278"
   },
   {
     "item": "4513 (6)",
@@ -4135,9 +4413,10 @@
       "101907",
       "101908"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000279"
   },
   {
     "item": "4514 (6)",
@@ -4149,9 +4428,10 @@
       "101913",
       "101914"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000280"
   },
   {
     "item": "4521 (6)",
@@ -4163,9 +4443,10 @@
       "101919",
       "101920"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000281"
   },
   {
     "item": "4522 (6)",
@@ -4177,9 +4458,10 @@
       "101925",
       "101926"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000282"
   },
   {
     "item": "4523 (6)",
@@ -4191,9 +4473,10 @@
       "101931",
       "101932"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000283"
   },
   {
     "item": "4524 (6)",
@@ -4205,9 +4488,10 @@
       "101937",
       "101938"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000284"
   },
   {
     "item": "4531 (6)",
@@ -4219,9 +4503,10 @@
       "101943",
       "101944"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000285"
   },
   {
     "item": "4532 (6)",
@@ -4233,9 +4518,10 @@
       "101949",
       "101950"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000286"
   },
   {
     "item": "4533 (6)",
@@ -4247,9 +4533,10 @@
       "101955",
       "101956"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000287"
   },
   {
     "item": "4534 (6)",
@@ -4261,9 +4548,10 @@
       "101961",
       "101962"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000288"
   },
   {
     "item": "4541 (8)",
@@ -4277,9 +4565,10 @@
       "101969",
       "101970"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000289"
   },
   {
     "item": "4542 (8)",
@@ -4293,9 +4582,10 @@
       "101977",
       "101978"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000290"
   },
   {
     "item": "4543 (8)",
@@ -4309,9 +4599,10 @@
       "101985",
       "101986"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000291"
   },
   {
     "item": "4544 (8)",
@@ -4325,9 +4616,10 @@
       "101993",
       "101994"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000292"
   },
   {
     "item": "4611 (6)",
@@ -4339,9 +4631,10 @@
       "101999",
       "102000"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000293"
   },
   {
     "item": "4612 (6)",
@@ -4353,9 +4646,10 @@
       "102005",
       "102006"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000294"
   },
   {
     "item": "4613 (6)",
@@ -4367,9 +4661,10 @@
       "102011",
       "102012"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000295"
   },
   {
     "item": "4614 (6)",
@@ -4381,9 +4676,10 @@
       "102017",
       "102018"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000296"
   },
   {
     "item": "4615 (6)",
@@ -4395,9 +4691,10 @@
       "102023",
       "102024"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000297"
   },
   {
     "item": "4616 (6)",
@@ -4409,9 +4706,10 @@
       "102029",
       "102030"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000298"
   },
   {
     "item": "4621 (6)",
@@ -4423,9 +4721,10 @@
       "102035",
       "102036"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000299"
   },
   {
     "item": "4622 (6)",
@@ -4437,9 +4736,10 @@
       "102041",
       "102042"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000300"
   },
   {
     "item": "4623 (6)",
@@ -4451,9 +4751,10 @@
       "102047",
       "102048"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000301"
   },
   {
     "item": "4624 (6)",
@@ -4465,9 +4766,10 @@
       "102053",
       "102054"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000302"
   },
   {
     "item": "4625 (6)",
@@ -4479,9 +4781,10 @@
       "102059",
       "102060"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000303"
   },
   {
     "item": "4626 (6)",
@@ -4493,9 +4796,10 @@
       "102065",
       "102066"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000304"
   },
   {
     "item": "4631 (8)",
@@ -4509,9 +4813,10 @@
       "102073",
       "102074"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000305"
   },
   {
     "item": "4632 (6)",
@@ -4523,9 +4828,10 @@
       "102079",
       "102080"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000306"
   },
   {
     "item": "4633 (6)",
@@ -4537,9 +4843,10 @@
       "102085",
       "102086"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000307"
   },
   {
     "item": "4634 (6)",
@@ -4551,9 +4858,10 @@
       "102091",
       "102092"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000308"
   },
   {
     "item": "4641 (8)",
@@ -4567,9 +4875,10 @@
       "102099",
       "102100"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000309"
   },
   {
     "item": "4642 (8)",
@@ -4583,9 +4892,10 @@
       "102107",
       "102108"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000310"
   },
   {
     "item": "4643 (8)",
@@ -4599,9 +4909,10 @@
       "102115",
       "102116"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000311"
   },
   {
     "item": "4644 (8)",
@@ -4615,9 +4926,10 @@
       "102123",
       "102124"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000312"
   },
   {
     "item": "5111 (8)",
@@ -4631,9 +4943,10 @@
       "102131",
       "102132"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000313"
   },
   {
     "item": "5112 (8)",
@@ -4647,9 +4960,10 @@
       "102139",
       "102140"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000314"
   },
   {
     "item": "5113 (8)",
@@ -4663,9 +4977,10 @@
       "102147",
       "102148"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000315"
   },
   {
     "item": "5114 (8)",
@@ -4679,9 +4994,10 @@
       "102155",
       "102156"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000316"
   },
   {
     "item": "5115 (8)",
@@ -4695,9 +5011,10 @@
       "102163",
       "102164"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000317"
   },
   {
     "item": "5116 (8)",
@@ -4711,9 +5028,10 @@
       "102171",
       "102172"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000318"
   },
   {
     "item": "5121 (8)",
@@ -4727,9 +5045,10 @@
       "102179",
       "102180"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000319"
   },
   {
     "item": "5122 (8)",
@@ -4743,9 +5062,10 @@
       "102187",
       "102188"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000320"
   },
   {
     "item": "5123 (8)",
@@ -4759,9 +5079,10 @@
       "102195",
       "102196"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000321"
   },
   {
     "item": "5124 (8)",
@@ -4775,9 +5096,10 @@
       "102203",
       "102204"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000322"
   },
   {
     "item": "5125 (8)",
@@ -4791,9 +5113,10 @@
       "102211",
       "102212"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000323"
   },
   {
     "item": "5126 (8)",
@@ -4807,9 +5130,10 @@
       "102219",
       "102220"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000324"
   },
   {
     "item": "5131 (8)",
@@ -4823,9 +5147,10 @@
       "102227",
       "102228"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000325"
   },
   {
     "item": "5132 (8)",
@@ -4839,9 +5164,10 @@
       "102235",
       "102236"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000326"
   },
   {
     "item": "5133 (8)",
@@ -4855,9 +5181,10 @@
       "102243",
       "102244"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000327"
   },
   {
     "item": "5134 (8)",
@@ -4871,9 +5198,10 @@
       "102251",
       "102252"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000328"
   },
   {
     "item": "5135 (8)",
@@ -4887,9 +5215,10 @@
       "102259",
       "102260"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000329"
   },
   {
     "item": "5136 (8)",
@@ -4903,9 +5232,10 @@
       "102267",
       "102268"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000330"
   },
   {
     "item": "5141 (8)",
@@ -4919,9 +5249,10 @@
       "102275",
       "102276"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000331"
   },
   {
     "item": "5142 (8)",
@@ -4935,9 +5266,10 @@
       "102283",
       "102284"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000332"
   },
   {
     "item": "5143 (8)",
@@ -4951,9 +5283,10 @@
       "102291",
       "102292"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000333"
   },
   {
     "item": "5144 (8)",
@@ -4967,9 +5300,10 @@
       "102299",
       "102300"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000334"
   },
   {
     "item": "5211 (6)",
@@ -4981,9 +5315,10 @@
       "102305",
       "102306"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000335"
   },
   {
     "item": "5212 (6)",
@@ -4995,9 +5330,10 @@
       "102311",
       "102312"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000336"
   },
   {
     "item": "5213 (6)",
@@ -5009,9 +5345,10 @@
       "102317",
       "102318"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000337"
   },
   {
     "item": "5214 (6)",
@@ -5023,9 +5360,10 @@
       "102323",
       "102324"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000338"
   },
   {
     "item": "5221 (6)",
@@ -5037,9 +5375,10 @@
       "102329",
       "102330"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000339"
   },
   {
     "item": "5222 (6)",
@@ -5051,9 +5390,10 @@
       "102335",
       "102336"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000340"
   },
   {
     "item": "5223 (6)",
@@ -5065,9 +5405,10 @@
       "102341",
       "102342"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000341"
   },
   {
     "item": "5224 (6)",
@@ -5079,9 +5420,10 @@
       "102347",
       "102348"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000342"
   },
   {
     "item": "5231 (6)",
@@ -5093,9 +5435,10 @@
       "102353",
       "102354"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000343"
   },
   {
     "item": "5232 (6)",
@@ -5107,9 +5450,10 @@
       "102359",
       "102360"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000344"
   },
   {
     "item": "5233 (6)",
@@ -5121,9 +5465,10 @@
       "102365",
       "102366"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000345"
   },
   {
     "item": "5234 (6)",
@@ -5135,9 +5480,10 @@
       "102371",
       "102372"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000346"
   },
   {
     "item": "5241 (8)",
@@ -5151,9 +5497,10 @@
       "102379",
       "102380"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000347"
   },
   {
     "item": "5242 (8)",
@@ -5167,9 +5514,10 @@
       "102387",
       "102388"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000348"
   },
   {
     "item": "5243 (8)",
@@ -5183,9 +5531,10 @@
       "102395",
       "102396"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000349"
   },
   {
     "item": "5244 (8)",
@@ -5199,9 +5548,10 @@
       "102403",
       "102404"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000350"
   },
   {
     "item": "5311 (6)",
@@ -5213,9 +5563,10 @@
       "102409",
       "102410"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000351"
   },
   {
     "item": "5312 (6)",
@@ -5227,9 +5578,10 @@
       "102415",
       "102416"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000352"
   },
   {
     "item": "5313 (6)",
@@ -5241,9 +5593,10 @@
       "102421",
       "102422"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000353"
   },
   {
     "item": "5314 (6)",
@@ -5255,9 +5608,10 @@
       "102427",
       "102428"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000354"
   },
   {
     "item": "5321 (6)",
@@ -5269,9 +5623,10 @@
       "102433",
       "102434"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000355"
   },
   {
     "item": "5322 (6)",
@@ -5283,9 +5638,10 @@
       "102439",
       "102440"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000356"
   },
   {
     "item": "5323 (6)",
@@ -5297,9 +5653,10 @@
       "102445",
       "102446"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000357"
   },
   {
     "item": "5324 (6)",
@@ -5311,9 +5668,10 @@
       "102451",
       "102452"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000358"
   },
   {
     "item": "5331 (6)",
@@ -5325,9 +5683,10 @@
       "102457",
       "102458"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000359"
   },
   {
     "item": "5332 (6)",
@@ -5339,9 +5698,10 @@
       "102463",
       "102464"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000360"
   },
   {
     "item": "5333 (6)",
@@ -5353,9 +5713,10 @@
       "102469",
       "102470"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000361"
   },
   {
     "item": "5334 (6)",
@@ -5367,9 +5728,10 @@
       "102475",
       "102476"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000362"
   },
   {
     "item": "5341 (8)",
@@ -5383,9 +5745,10 @@
       "102483",
       "102484"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000363"
   },
   {
     "item": "5342 (8)",
@@ -5399,9 +5762,10 @@
       "102491",
       "102492"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000364"
   },
   {
     "item": "5343 (8)",
@@ -5415,9 +5779,10 @@
       "102499",
       "102500"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000365"
   },
   {
     "item": "5344 (8)",
@@ -5431,9 +5796,10 @@
       "102507",
       "102508"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000366"
   },
   {
     "item": "5411 (6)",
@@ -5445,9 +5811,10 @@
       "102513",
       "102514"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000367"
   },
   {
     "item": "5412 (6)",
@@ -5459,9 +5826,10 @@
       "102519",
       "102520"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000368"
   },
   {
     "item": "5413 (6)",
@@ -5473,9 +5841,10 @@
       "102525",
       "102526"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000369"
   },
   {
     "item": "5414 (6)",
@@ -5487,9 +5856,10 @@
       "102531",
       "102532"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000370"
   },
   {
     "item": "5421 (6)",
@@ -5501,9 +5871,10 @@
       "102537",
       "102538"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000371"
   },
   {
     "item": "5422 (6)",
@@ -5515,9 +5886,10 @@
       "102543",
       "102544"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000372"
   },
   {
     "item": "5423 (6)",
@@ -5529,9 +5901,10 @@
       "102549",
       "102550"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000373"
   },
   {
     "item": "5424 (6)",
@@ -5543,9 +5916,10 @@
       "102555",
       "102556"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000374"
   },
   {
     "item": "5431 (6)",
@@ -5557,9 +5931,10 @@
       "102561",
       "102562"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000375"
   },
   {
     "item": "5432 (6)",
@@ -5571,9 +5946,10 @@
       "102567",
       "102568"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000376"
   },
   {
     "item": "5433 (6)",
@@ -5585,9 +5961,10 @@
       "102573",
       "102574"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000377"
   },
   {
     "item": "5434 (6)",
@@ -5599,9 +5976,10 @@
       "102579",
       "102580"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000378"
   },
   {
     "item": "5441 (8)",
@@ -5615,9 +5993,10 @@
       "102587",
       "102588"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000379"
   },
   {
     "item": "5442 (8)",
@@ -5631,9 +6010,10 @@
       "102595",
       "102596"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000380"
   },
   {
     "item": "5443 (8)",
@@ -5647,9 +6027,10 @@
       "102603",
       "102604"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000381"
   },
   {
     "item": "5444 (8)",
@@ -5663,9 +6044,10 @@
       "102611",
       "102612"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000382"
   },
   {
     "item": "5511 (6)",
@@ -5677,9 +6059,10 @@
       "102617",
       "102618"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000383"
   },
   {
     "item": "5512 (6)",
@@ -5691,9 +6074,10 @@
       "102623",
       "102624"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000384"
   },
   {
     "item": "5513 (6)",
@@ -5705,9 +6089,10 @@
       "102629",
       "102630"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000385"
   },
   {
     "item": "5514 (6)",
@@ -5719,9 +6104,10 @@
       "102635",
       "102636"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000386"
   },
   {
     "item": "5521 (6)",
@@ -5733,9 +6119,10 @@
       "102641",
       "102642"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000387"
   },
   {
     "item": "5522 (6)",
@@ -5747,9 +6134,10 @@
       "102647",
       "102648"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000388"
   },
   {
     "item": "5523 (6)",
@@ -5761,9 +6149,10 @@
       "102653",
       "102654"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000389"
   },
   {
     "item": "5524 (6)",
@@ -5775,9 +6164,10 @@
       "102659",
       "102660"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000390"
   },
   {
     "item": "5531 (6)",
@@ -5789,9 +6179,10 @@
       "102665",
       "102666"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000391"
   },
   {
     "item": "5532 (6)",
@@ -5803,9 +6194,10 @@
       "102671",
       "102672"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000392"
   },
   {
     "item": "5533 (6)",
@@ -5817,9 +6209,10 @@
       "102677",
       "102678"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000393"
   },
   {
     "item": "5534 (6)",
@@ -5831,9 +6224,10 @@
       "102683",
       "102684"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000394"
   },
   {
     "item": "5541 (8)",
@@ -5847,9 +6241,10 @@
       "102691",
       "102692"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000395"
   },
   {
     "item": "5542 (8)",
@@ -5863,9 +6258,10 @@
       "102699",
       "102700"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000396"
   },
   {
     "item": "5543 (8)",
@@ -5879,9 +6275,10 @@
       "102707",
       "102708"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000397"
   },
   {
     "item": "5544 (8)",
@@ -5895,9 +6292,10 @@
       "102715",
       "102716"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000398"
   },
   {
     "item": "5611 (6)",
@@ -5909,9 +6307,10 @@
       "102721",
       "102722"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000399"
   },
   {
     "item": "5612 (6)",
@@ -5923,9 +6322,10 @@
       "102727",
       "102728"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000400"
   },
   {
     "item": "5613 (6)",
@@ -5937,9 +6337,10 @@
       "102733",
       "102734"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000401"
   },
   {
     "item": "5614 (6)",
@@ -5951,9 +6352,10 @@
       "102739",
       "102740"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000402"
   },
   {
     "item": "5615 (6)",
@@ -5965,9 +6367,10 @@
       "102745",
       "102746"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000403"
   },
   {
     "item": "5616 (6)",
@@ -5979,9 +6382,10 @@
       "102751",
       "102752"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000404"
   },
   {
     "item": "5621 (6)",
@@ -5993,9 +6397,10 @@
       "102757",
       "102758"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000405"
   },
   {
     "item": "5622 (6)",
@@ -6007,9 +6412,10 @@
       "102763",
       "102764"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000406"
   },
   {
     "item": "5623 (6)",
@@ -6021,9 +6427,10 @@
       "102769",
       "102770"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000407"
   },
   {
     "item": "5624 (6)",
@@ -6035,9 +6442,10 @@
       "102775",
       "102776"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000408"
   },
   {
     "item": "5625 (6)",
@@ -6049,9 +6457,10 @@
       "102781",
       "102782"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000409"
   },
   {
     "item": "5626 (6)",
@@ -6063,9 +6472,10 @@
       "102787",
       "102788"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000410"
   },
   {
     "item": "5631 (6)",
@@ -6077,9 +6487,10 @@
       "102793",
       "102794"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000411"
   },
   {
     "item": "5632 (6)",
@@ -6091,9 +6502,10 @@
       "102799",
       "102800"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000412"
   },
   {
     "item": "5633 (6)",
@@ -6105,9 +6517,10 @@
       "102805",
       "102806"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000413"
   },
   {
     "item": "5634 (6)",
@@ -6119,9 +6532,10 @@
       "102811",
       "102812"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000414"
   },
   {
     "item": "5641 (8)",
@@ -6135,9 +6549,10 @@
       "102819",
       "102820"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000415"
   },
   {
     "item": "5642 (8)",
@@ -6151,9 +6566,10 @@
       "102827",
       "102828"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000416"
   },
   {
     "item": "5643 (8)",
@@ -6167,9 +6583,10 @@
       "102835",
       "102836"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000417"
   },
   {
     "item": "5644 (8)",
@@ -6183,9 +6600,10 @@
       "102843",
       "102844"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000418"
   },
   {
     "item": "6111 (8)",
@@ -6199,9 +6617,10 @@
       "102851",
       "102852"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000419"
   },
   {
     "item": "6112 (8)",
@@ -6215,9 +6634,10 @@
       "102859",
       "102860"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000420"
   },
   {
     "item": "6113 (8)",
@@ -6231,9 +6651,10 @@
       "102867",
       "102868"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000421"
   },
   {
     "item": "6114 (8)",
@@ -6247,9 +6668,10 @@
       "102875",
       "102876"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000422"
   },
   {
     "item": "6115 (8)",
@@ -6263,9 +6685,10 @@
       "102883",
       "102884"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000423"
   },
   {
     "item": "6116 (8)",
@@ -6279,9 +6702,10 @@
       "102891",
       "102892"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000424"
   },
   {
     "item": "6121 (8)",
@@ -6295,9 +6719,10 @@
       "102899",
       "102900"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000425"
   },
   {
     "item": "6122 (8)",
@@ -6311,9 +6736,10 @@
       "102907",
       "102908"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000426"
   },
   {
     "item": "6123 (8)",
@@ -6327,9 +6753,10 @@
       "102915",
       "102916"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000427"
   },
   {
     "item": "6124 (8)",
@@ -6343,9 +6770,10 @@
       "102923",
       "102924"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000428"
   },
   {
     "item": "6125 (8)",
@@ -6359,9 +6787,10 @@
       "102931",
       "102932"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000429"
   },
   {
     "item": "6126 (8)",
@@ -6375,9 +6804,10 @@
       "102939",
       "102940"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000430"
   },
   {
     "item": "6131 (8)",
@@ -6391,9 +6821,10 @@
       "102947",
       "102948"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000431"
   },
   {
     "item": "6132 (8)",
@@ -6407,9 +6838,10 @@
       "102955",
       "102956"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000432"
   },
   {
     "item": "6133 (8)",
@@ -6423,9 +6855,10 @@
       "102963",
       "102964"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000433"
   },
   {
     "item": "6134 (8)",
@@ -6439,9 +6872,10 @@
       "102971",
       "102972"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000434"
   },
   {
     "item": "6135 (8)",
@@ -6455,9 +6889,10 @@
       "102979",
       "102980"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000435"
   },
   {
     "item": "6136 (8)",
@@ -6471,9 +6906,10 @@
       "102987",
       "102988"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000436"
   },
   {
     "item": "6141 (8)",
@@ -6487,9 +6923,10 @@
       "102995",
       "102996"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000437"
   },
   {
     "item": "6142 (8)",
@@ -6503,9 +6940,10 @@
       "103003",
       "103004"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000438"
   },
   {
     "item": "6143 (8)",
@@ -6519,9 +6957,10 @@
       "103011",
       "103012"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000439"
   },
   {
     "item": "6144 (8)",
@@ -6535,9 +6974,10 @@
       "103019",
       "103020"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000440"
   },
   {
     "item": "6211 (6)",
@@ -6549,9 +6989,10 @@
       "103025",
       "103026"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000441"
   },
   {
     "item": "6212 (6)",
@@ -6563,9 +7004,10 @@
       "103031",
       "103032"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000442"
   },
   {
     "item": "6213 (6)",
@@ -6577,9 +7019,10 @@
       "103037",
       "103038"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000443"
   },
   {
     "item": "6214 (6)",
@@ -6591,9 +7034,10 @@
       "103043",
       "103044"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000444"
   },
   {
     "item": "6221 (6)",
@@ -6605,9 +7049,10 @@
       "103049",
       "103050"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000445"
   },
   {
     "item": "6222 (6)",
@@ -6619,9 +7064,10 @@
       "103055",
       "103056"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000446"
   },
   {
     "item": "6223 (6)",
@@ -6633,9 +7079,10 @@
       "103061",
       "103062"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000447"
   },
   {
     "item": "6224 (6)",
@@ -6647,9 +7094,10 @@
       "103067",
       "103068"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000448"
   },
   {
     "item": "6231 (6)",
@@ -6661,9 +7109,10 @@
       "103073",
       "103074"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000449"
   },
   {
     "item": "6232 (6)",
@@ -6675,9 +7124,10 @@
       "103079",
       "103080"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000450"
   },
   {
     "item": "6233 (6)",
@@ -6689,9 +7139,10 @@
       "103085",
       "103086"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000451"
   },
   {
     "item": "6234 (6)",
@@ -6703,9 +7154,10 @@
       "103091",
       "103092"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000452"
   },
   {
     "item": "6241 (8)",
@@ -6719,9 +7171,10 @@
       "103099",
       "103100"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000453"
   },
   {
     "item": "6242 (8)",
@@ -6735,9 +7188,10 @@
       "103107",
       "103108"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000454"
   },
   {
     "item": "6243 (8)",
@@ -6751,9 +7205,10 @@
       "103115",
       "103116"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000455"
   },
   {
     "item": "6244 (8)",
@@ -6767,9 +7222,10 @@
       "103123",
       "103124"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000456"
   },
   {
     "item": "6311 (6)",
@@ -6781,9 +7237,10 @@
       "103129",
       "103130"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000457"
   },
   {
     "item": "6312 (6)",
@@ -6795,9 +7252,10 @@
       "103135",
       "103136"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000458"
   },
   {
     "item": "6313 (6)",
@@ -6809,9 +7267,10 @@
       "103141",
       "103142"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000459"
   },
   {
     "item": "6314 (6)",
@@ -6823,9 +7282,10 @@
       "103147",
       "103148"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000460"
   },
   {
     "item": "6321 (6)",
@@ -6837,9 +7297,10 @@
       "103153",
       "103154"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000461"
   },
   {
     "item": "6322 (6)",
@@ -6851,9 +7312,10 @@
       "103159",
       "103160"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000462"
   },
   {
     "item": "6323 (6)",
@@ -6865,9 +7327,10 @@
       "103165",
       "103166"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000463"
   },
   {
     "item": "6324 (6)",
@@ -6879,9 +7342,10 @@
       "103171",
       "103172"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000464"
   },
   {
     "item": "6331 (6)",
@@ -6893,9 +7357,10 @@
       "103177",
       "103178"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000465"
   },
   {
     "item": "6332 (6)",
@@ -6907,9 +7372,10 @@
       "103183",
       "103184"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000466"
   },
   {
     "item": "6333 (6)",
@@ -6921,9 +7387,10 @@
       "103189",
       "103190"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000467"
   },
   {
     "item": "6334 (6)",
@@ -6935,9 +7402,10 @@
       "103195",
       "103196"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000468"
   },
   {
     "item": "6341 (8)",
@@ -6951,9 +7419,10 @@
       "103203",
       "103204"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000469"
   },
   {
     "item": "6342 (8)",
@@ -6967,9 +7436,10 @@
       "103211",
       "103212"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000470"
   },
   {
     "item": "6343 (8)",
@@ -6983,9 +7453,10 @@
       "103219",
       "103220"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000471"
   },
   {
     "item": "6344 (8)",
@@ -6999,9 +7470,10 @@
       "103227",
       "103228"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000472"
   },
   {
     "item": "6411 (6)",
@@ -7013,9 +7485,10 @@
       "103233",
       "103234"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000473"
   },
   {
     "item": "6412 (6)",
@@ -7027,9 +7500,10 @@
       "103239",
       "103240"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000474"
   },
   {
     "item": "6413 (6)",
@@ -7041,9 +7515,10 @@
       "103245",
       "103246"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000475"
   },
   {
     "item": "6414 (6)",
@@ -7055,9 +7530,10 @@
       "103251",
       "103252"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000476"
   },
   {
     "item": "6421 (6)",
@@ -7069,9 +7545,10 @@
       "103257",
       "103258"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000477"
   },
   {
     "item": "6422 (6)",
@@ -7083,9 +7560,10 @@
       "103263",
       "103264"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000478"
   },
   {
     "item": "6423 (6)",
@@ -7097,9 +7575,10 @@
       "103269",
       "103270"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000479"
   },
   {
     "item": "6424 (6)",
@@ -7111,9 +7590,10 @@
       "103275",
       "103276"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000480"
   },
   {
     "item": "6431 (6)",
@@ -7125,9 +7605,10 @@
       "103281",
       "103282"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000481"
   },
   {
     "item": "6432 (6)",
@@ -7139,9 +7620,10 @@
       "103287",
       "103288"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000482"
   },
   {
     "item": "6433 (6)",
@@ -7153,9 +7635,10 @@
       "103293",
       "103294"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000483"
   },
   {
     "item": "6434 (6)",
@@ -7167,9 +7650,10 @@
       "103299",
       "103300"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000484"
   },
   {
     "item": "6441 (8)",
@@ -7183,9 +7667,10 @@
       "103307",
       "103308"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000485"
   },
   {
     "item": "6442 (8)",
@@ -7199,9 +7684,10 @@
       "103315",
       "103316"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000486"
   },
   {
     "item": "6443 (8)",
@@ -7215,9 +7701,10 @@
       "103323",
       "103324"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000487"
   },
   {
     "item": "6444 (8)",
@@ -7231,9 +7718,10 @@
       "103331",
       "103332"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000488"
   },
   {
     "item": "6511 (6)",
@@ -7245,9 +7733,10 @@
       "103337",
       "103338"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000489"
   },
   {
     "item": "6512 (6)",
@@ -7259,9 +7748,10 @@
       "103343",
       "103344"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000490"
   },
   {
     "item": "6513 (6)",
@@ -7273,9 +7763,10 @@
       "103349",
       "103350"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000491"
   },
   {
     "item": "6514 (6)",
@@ -7287,9 +7778,10 @@
       "103355",
       "103356"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000492"
   },
   {
     "item": "6521 (6)",
@@ -7301,9 +7793,10 @@
       "103361",
       "103362"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000493"
   },
   {
     "item": "6522 (6)",
@@ -7315,9 +7808,10 @@
       "103367",
       "103368"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000494"
   },
   {
     "item": "6523 (6)",
@@ -7329,9 +7823,10 @@
       "103373",
       "103374"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000495"
   },
   {
     "item": "6524 (6)",
@@ -7343,9 +7838,10 @@
       "103379",
       "103380"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000496"
   },
   {
     "item": "6531 (6)",
@@ -7357,9 +7853,10 @@
       "103385",
       "103386"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000497"
   },
   {
     "item": "6532 (6)",
@@ -7371,9 +7868,10 @@
       "103391",
       "103392"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000498"
   },
   {
     "item": "6533 (6)",
@@ -7385,9 +7883,10 @@
       "103397",
       "103398"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000499"
   },
   {
     "item": "6534 (6)",
@@ -7399,9 +7898,10 @@
       "103403",
       "103404"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000500"
   },
   {
     "item": "6541 (8)",
@@ -7415,9 +7915,10 @@
       "103411",
       "103412"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000501"
   },
   {
     "item": "6542 (8)",
@@ -7431,9 +7932,10 @@
       "103419",
       "103420"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000502"
   },
   {
     "item": "6543 (8)",
@@ -7447,9 +7949,10 @@
       "103427",
       "103428"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000503"
   },
   {
     "item": "6544 (8)",
@@ -7463,9 +7966,10 @@
       "103435",
       "103436"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000504"
   },
   {
     "item": "6611 (6)",
@@ -7477,9 +7981,10 @@
       "103441",
       "103442"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000505"
   },
   {
     "item": "6612 (6)",
@@ -7491,9 +7996,10 @@
       "103447",
       "103448"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000506"
   },
   {
     "item": "6613 (6)",
@@ -7505,9 +8011,10 @@
       "103453",
       "103454"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000507"
   },
   {
     "item": "6614 (6)",
@@ -7519,9 +8026,10 @@
       "103459",
       "103460"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000508"
   },
   {
     "item": "6621 (6)",
@@ -7533,9 +8041,10 @@
       "103465",
       "103466"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000509"
   },
   {
     "item": "6622 (6)",
@@ -7547,9 +8056,10 @@
       "103471",
       "103472"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000510"
   },
   {
     "item": "6623 (6)",
@@ -7561,9 +8071,10 @@
       "103477",
       "103478"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000511"
   },
   {
     "item": "6624 (6)",
@@ -7575,9 +8086,10 @@
       "103483",
       "103484"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000512"
   },
   {
     "item": "6631 (6)",
@@ -7589,9 +8101,10 @@
       "103489",
       "103490"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000513"
   },
   {
     "item": "6632 (6)",
@@ -7603,9 +8116,10 @@
       "103495",
       "103496"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000514"
   },
   {
     "item": "6633 (6)",
@@ -7617,9 +8131,10 @@
       "103501",
       "103502"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000515"
   },
   {
     "item": "6634 (6)",
@@ -7631,9 +8146,10 @@
       "103507",
       "103508"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000516"
   },
   {
     "item": "6641 (8)",
@@ -7647,9 +8163,10 @@
       "103515",
       "103516"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000517"
   },
   {
     "item": "6642 (8)",
@@ -7663,9 +8180,10 @@
       "103523",
       "103524"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000518"
   },
   {
     "item": "6643 (8)",
@@ -7679,9 +8197,10 @@
       "103531",
       "103532"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000519"
   },
   {
     "item": "6644 (8)",
@@ -7695,9 +8214,10 @@
       "103539",
       "103540"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000520"
   },
   {
     "item": "6711 (6)",
@@ -7709,9 +8229,10 @@
       "103545",
       "103546"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000521"
   },
   {
     "item": "6712 (6)",
@@ -7723,9 +8244,10 @@
       "103551",
       "103552"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000522"
   },
   {
     "item": "6713 (6)",
@@ -7737,9 +8259,10 @@
       "103557",
       "103558"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000523"
   },
   {
     "item": "6714 (6)",
@@ -7751,9 +8274,10 @@
       "103563",
       "103564"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000524"
   },
   {
     "item": "6721 (6)",
@@ -7765,9 +8289,10 @@
       "103569",
       "103570"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000525"
   },
   {
     "item": "6722 (6)",
@@ -7779,9 +8304,10 @@
       "103575",
       "103576"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000526"
   },
   {
     "item": "6723 (6)",
@@ -7793,9 +8319,10 @@
       "103581",
       "103582"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000527"
   },
   {
     "item": "6724 (6)",
@@ -7807,9 +8334,10 @@
       "103587",
       "103588"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000528"
   },
   {
     "item": "6731 (6)",
@@ -7821,9 +8349,10 @@
       "103593",
       "103594"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000529"
   },
   {
     "item": "6732 (6)",
@@ -7835,9 +8364,10 @@
       "103599",
       "103600"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000530"
   },
   {
     "item": "6733 (6)",
@@ -7849,9 +8379,10 @@
       "103605",
       "103606"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000531"
   },
   {
     "item": "6734 (6)",
@@ -7863,9 +8394,10 @@
       "103611",
       "103612"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000532"
   },
   {
     "item": "6741 (8)",
@@ -7879,9 +8411,10 @@
       "103619",
       "103620"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000533"
   },
   {
     "item": "6742 (8)",
@@ -7895,9 +8428,10 @@
       "103627",
       "103628"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000534"
   },
   {
     "item": "6743 (8)",
@@ -7911,9 +8445,10 @@
       "103635",
       "103636"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000535"
   },
   {
     "item": "6744 (8)",
@@ -7927,8 +8462,9 @@
       "103643",
       "103644"
     ],
-   "count": 0,
-   "date": "2024-11-05T12:00:00Z",
-   "isMarked": false
+    "count": 0,
+    "date": "2024-11-05T12:00:00Z",
+    "isMarked": false,
+    "numero_serie": "AP000536"
   }
 ]
